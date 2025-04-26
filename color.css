@@ -1,0 +1,36 @@
+.orange {
+    background-color: orange;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.dogerblue {
+    background-color: cadetblue;
+    color: darkgoldenrod;
+    text-align: center;
+    border: dotted;
+}
+
+.mediumseagreen {
+    color: blue;
+}
+
+.gray{
+    color: brown;
+    text-align: right;
+    background-color: darkseagreen;
+}
+
+.slateblue{
+    background-color: bisque;
+}
+
+.violet{
+    color: chocolate;
+}
+
+.lightgray{
+    color: cornflowerblue;
+}

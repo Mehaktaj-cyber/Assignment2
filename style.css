@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+}
+/* This is Single line comment */
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  font-style: oblique;
+  background-color: aquamarine; /* set text backgound color to aquamarine */
+}
+body {
+  background-color: chartreuse; /* set hole background color */
+}
+
